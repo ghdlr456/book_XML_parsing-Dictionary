@@ -14,6 +14,7 @@
 		FE9DF89D216683A0002B65A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE9DF89B216683A0002B65A6 /* LaunchScreen.storyboard */; };
 		FE9DF8A8216683A1002B65A6 /* book_XML_parsing_DictionaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9DF8A7216683A1002B65A6 /* book_XML_parsing_DictionaryTests.swift */; };
 		FE9DF8B3216683A1002B65A6 /* book_XML_parsing_DictionaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9DF8B2216683A1002B65A6 /* book_XML_parsing_DictionaryUITests.swift */; };
+		FE9DF8C3216683EC002B65A6 /* book.xml in Resources */ = {isa = PBXBuildFile; fileRef = FE9DF8C2216683EC002B65A6 /* book.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FE9DF8AE216683A1002B65A6 /* book_XML_parsing-DictionaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "book_XML_parsing-DictionaryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE9DF8B2216683A1002B65A6 /* book_XML_parsing_DictionaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = book_XML_parsing_DictionaryUITests.swift; sourceTree = "<group>"; };
 		FE9DF8B4216683A1002B65A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE9DF8C2216683EC002B65A6 /* book.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = book.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		FE9DF8912166839C002B65A6 /* book_XML_parsing-Dictionary */ = {
 			isa = PBXGroup;
 			children = (
+				FE9DF8C2216683EC002B65A6 /* book.xml */,
 				FE9DF8922166839C002B65A6 /* AppDelegate.swift */,
 				FE9DF8942166839C002B65A6 /* ViewController.swift */,
 				FE9DF8962166839C002B65A6 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				FE9DF89D216683A0002B65A6 /* LaunchScreen.storyboard in Resources */,
 				FE9DF89A216683A0002B65A6 /* Assets.xcassets in Resources */,
+				FE9DF8C3216683EC002B65A6 /* book.xml in Resources */,
 				FE9DF8982166839C002B65A6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
